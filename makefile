@@ -1,4 +1,4 @@
-#all: README.md
+all: README.md
 
 README.md: guessinggame.sh
 	touch README.md
